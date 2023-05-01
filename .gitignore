@@ -1,0 +1,8 @@
+*/__pycache__/
+checkpoints/
+datasets/
+models/vgg_normalised.pth
+results/
+results*
+Images*
+place_select*
